@@ -1,5 +1,5 @@
 #import "lib/io.zs"
 
-main :: proc(){
-    printf("hello, world")
+log :: proc(mem: ^char, len: u32){
+    printf("%.*s", len, mem)
 }
