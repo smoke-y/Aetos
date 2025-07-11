@@ -3,6 +3,6 @@ According to the myth, Aëtos was a beautiful boy born of the earth. While Zeus 
 Aetos is a VM written in my programming language, Zeus(https://github.com/smoke-y/Zeus). This will be dynamically linked to the Zeus compiler to provide compile time execution.
 
 1) Compile Zeus compiler using a cxx compiler
-2) Use the Zeus compiler to compiler Aetos VM to a dynamic library
+2) Use the Zeus compiler to compile Aetos VM to a dynamic library
 3) The Zeus compiler can now load the dynamic library to provide compile time execution, when compiling later Zeus files
 4) Profit
